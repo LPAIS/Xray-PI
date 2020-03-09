@@ -12,7 +12,7 @@ Our prohibited item dataset named Xray-PI contains 2409 positive images, in whic
 
 In our dataset, we define seven different categories, namely, battery, bottle, explosive, firearm, knife, scissors and lighter. The following table shows the specific numbers of each category in detail. We provide the boundary information for all positive images to help generate pixel-wise masks. 
 
-
+<center>
 <table class="tg">
   <tr>
     <th class="tg-c3ow" colspan="7">Positive (2409)</th>
@@ -36,7 +36,7 @@ In our dataset, we define seven different categories, namely, battery, bottle, e
     <td class="tg-c3ow">1491</td>
   </tr>
 </table>
-
+</center>
 
 
 Different from GDXray or SIXray datasets, our dataset contains some categories such as explosive and bottle which are not included in other datasets. And the intra-class variance of each category is much bigger, e.g. the plastic lighter and iron-shell lighter in the category of lighter.
