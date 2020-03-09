@@ -6,18 +6,13 @@ The Xray-PI dataset is constructed by Laboratory of Pattern Analysis and Intelli
 
 Our prohibited item dataset named Xray-PI contains 2409 positive images, in which some have one prohibited item while the others have more prohibited items, and 10000 normal images without prohibited items. All the images in Xray-PI are collected or captured from color X-ray scanners.
 
-![dataset_view](C:\Users\Karl Xing\Desktop\dataset.jpg)
+![dataset_view](./dataset.jpg)
 
 
 
 In our dataset, we define seven different categories, namely, battery, bottle, explosive, firearm, knife, scissors and lighter. The following table shows the specific numbers of each category in detail. We provide the boundary information for all positive images to help generate pixel-wise masks. 
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-</style>
+
 <table class="tg">
   <tr>
     <th class="tg-c3ow" colspan="7">Positive (2409)</th>
