@@ -32,8 +32,8 @@ In our dataset, we define seven different categories, namely, battery, bottle, e
     <td class="tg-c3ow">90</td>
     <td class="tg-c3ow">69</td>
     <td class="tg-c3ow">1377</td>
-    <td class="tg-c3ow">1043</td>
     <td class="tg-c3ow">1491</td>
+    <td class="tg-c3ow">1043</td>
   </tr>
 </table>
 </center>
@@ -46,7 +46,7 @@ Different from GDXray or SIXray datasets, our dataset contains some categories s
 ## Download 
 
 - Download the entire dataset from here (coming soon)
-- Download the positive part of our dataset from here  (coming soon)
+- Download the positive part of our dataset from [OneDrive](https://1drv.ms/u/s!Avcw2GQq4yx0tnuWcvH-DnDk4MJZ?e=XGy9N2)  [Baidu/Extract Code:nx1b](https://pan.baidu.com/s/1AT-EHIde7a_evXfknhpGVQ)  
 - To obtain the decompression password, please contact us (email: 51184506047@stu.ecnu.edu.cn)
 
 ## License
