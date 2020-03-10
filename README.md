@@ -46,7 +46,7 @@ Different from GDXray or SIXray datasets, our dataset contains some categories s
 ## Download 
 
 - Download the entire dataset from here (coming soon)
-- Download the positive part of our dataset from [OneDrive](https://1drv.ms/u/s!Avcw2GQq4yx0tnuWcvH-DnDk4MJZ?e=XGy9N2)  [Baidu/Extract Code:nx1b](https://pan.baidu.com/s/1AT-EHIde7a_evXfknhpGVQ)  
+- Download the positive part of our dataset from [OneDrive](https://1drv.ms/u/s!Avcw2GQq4yx0tnuWcvH-DnDk4MJZ?e=XGy9N2) or  [Baidu/Extract Code:nx1b](https://pan.baidu.com/s/1AT-EHIde7a_evXfknhpGVQ)  
 - To obtain the decompression password, please contact us (email: 51184506047@stu.ecnu.edu.cn)
 
 ## License
